@@ -36,7 +36,7 @@ module.exports = {
 		en: {
 			cannotGetImage: "❌ | An error occurred while querying the image url",
 			invalidImageFormat: "❌ | Invalid image format",
-			changedAvatar: "✅ | Changed bot avatar successfully"
+			changedAvatar: "✅ | Master Lawkey, You Changed bot avatar successfully"//do not change
 		}
 	},
 
