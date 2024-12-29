@@ -61,7 +61,7 @@ module.exports = {
 		},
 		en: {
      help:"╭───────────⭓\n%1\n╰───────────⭓\n╭──────────⭓\n│ Page: [ %2/%3 ]\n│ » Total: %4 cmd's on ✅ ALAMIN\n│ » Type %5help <name> for details \n├────────⭔\n│ %6\n╰────────────⭓",
-			help2: "%1╭─────────────⭓\n│ » Total: %2 cmd's on ALAMIN💘\n│ » Type %3help <name> for details\n├───────⭔\n│ %4\n╰─────────────⭓",
+			help2: "%1╭─────────────⭓\n│ » Total: %2 cmd's on 𝐀Ⓛ𝐀Μ𝕀ℕ\n│ » Type %3help <name> for details\n├───────⭔\n│ %4\n╰─────────────⭓",
 			commandNotFound: "Command \"%1\" does not exist",
 			getInfoCommand: "╭── NAME ────⭓\n│ %1\n├── INFO\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n├── Usage\n%9\n╰──────⭔",
 			onlyInfo: "╭── INFO ────⭓\n│ Command name: %1\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n╰─────────────⭓",
