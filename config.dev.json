@@ -17,16 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61558651089120",
-    ""
+    "61569485262394",
+    "100090775159086"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Shain Kim √",
-  "prefix": "*",
+  "nickNameBot": "『=』➡︎ 『 Ｏｗｎｅｒ 』 𝕮𝖍𝖆𝖎𝖟𝖊𝖓 𝕲𝖔𝖆𝖙𝖇𝖔𝖙𝗩𝟮",
+  "prefix": "=",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -37,7 +37,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "alamindx97@icloud.com",
+      "email": "armenionguid2@icloud.com",
       "clientId": "695328982889-v1t85ej9aq1fvv0n4alp7rcbea9gkgvf.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04EyH1gbNUVv5CgYIARAAGAQSNwF-L9IrqcPCQD2QsuhCQ2XprHCTMrTnVPI6WvT9i73nnoi4XqfAD0_yDoGW_gtWUdIeVtANzao",
